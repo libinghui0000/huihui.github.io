@@ -15,10 +15,11 @@ My research area is machine learning, with special interests in models and algor
 
 ## Education
 
-**Peking University**, Beijing, China.
-* Candidate for B.S. in Computer Science and Technology
-* Candidate for B.S. in Mathematics (Double Major)
+**Peking University**, Beijing, China
+
+* B.S. in Computer Science and Technology. 2018 - 2022 (expected).
+* B.S. in Mathematics (Double Major). 2020 - 2022 (expected).
   
 ## Service and leadership
 
-**Leader**: EECS Students’ Association for Science and Technology, Peking University.
+**Leader**, EECS Students’ Association for Science and Technology, Peking University.
