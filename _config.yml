@@ -11,9 +11,9 @@ title                    : "Shanda Li"
 title_separator          : "-"
 name                     : &name "Shanda Li"
 description              : &description " A junior student at PKU"
-url                      : https://lithiumda001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lithiumda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lithiumda001.github.io"
+repository               : "lithiumda.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
