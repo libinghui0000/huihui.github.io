@@ -19,9 +19,8 @@ Education
 **Peking University**, Beijing, China
 
 * B.S. in Computer Science and Technology. 2018 - 2022 (expected).
-* B.S. in Mathematics (Double Major). 2020 - 2022 (expected).
 
 Service and leadership
 =====  
 
-**Leader**, EECS Students’ Association for Science and Technology, Peking University.
+2020.9 - 2021.8, **Leader**, EECS Students’ Association for Science and Technology, Peking University.
