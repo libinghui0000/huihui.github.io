@@ -19,7 +19,7 @@ Publication
    Shengjie Luo\*, **Shanda Li**\*, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu  
    
    * We propose a new method to accelerate attention calculation for Transformers with relative positional encoding (RPE) on top of the kernelized attention by utilizing Fast Fourier Transform (FFT). 
-   * Our method also helps to stablize training of kernelized attention models.
+   * Our method also helps to stabilize training of kernelized attention models.
    
 Education
 =====
