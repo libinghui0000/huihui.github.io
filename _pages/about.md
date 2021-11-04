@@ -13,14 +13,20 @@ I am a final-year undergraduate at Turing class, Peking university, where I am f
 
 My research area is machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, my work focuses on the Transformer and its variants [1]. I'm also interested in Transformers in vision and graph tasks.
 
-Publication
+Publications & Preprints
 =====
-[1] **Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding** (NeurIPS 2021)  
+[1] **Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding** (NeurIPS 2021) [[PDF](https://arxiv.org/abs/2106.12566)]
    Shengjie Luo\*, **Shanda Li**\*, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu  
    
    * We propose a new method to accelerate attention calculation for Transformers with relative positional encoding (RPE) on top of the kernelized attention by utilizing Fast Fourier Transform (FFT). 
    * Our method also helps to stabilize training of kernelized attention models.
+ 
+ [1] **Can Vision Transformers Perform Convolution?** (Preprint) [[PDF](https://arxiv.org/abs/2111.01353)] 
+   **Shanda Li**, Xiangning Chen, Di He, Cho-Jui Hsieh  
    
+   * We prove that a single self-attention layer with image patches as the input can perform any convolution operation as long as the number of heads is sufficient. 
+   * We further provide a lower bound on the number of heads for self-attention layers to express convolution. 
+
 Education
 =====
 
