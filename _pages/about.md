@@ -15,7 +15,7 @@ My research area is machine learning, with special interests in models and algor
 
 Publications & Preprints
 =====
-[1] **Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding** (NeurIPS 2021) [[PDF](https://arxiv.org/abs/2106.12566)] 
+[1] **Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding** (NeurIPS 2021) [[PDF](https://arxiv.org/abs/2106.12566)]  
   Shengjie Luo\*, **Shanda Li**\*, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu  
    
    * We propose a new method to accelerate attention calculation for Transformers with relative positional encoding (RPE) on top of the kernelized attention by utilizing Fast Fourier Transform (FFT). 
