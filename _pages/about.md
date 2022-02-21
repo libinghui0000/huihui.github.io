@@ -25,18 +25,3 @@ Publications & Preprints
    
 [3] **Learning Physics-Informed Neural Networks without Stacked Back-propagation** (Preprint)  [[PDF](https://arxiv.org/abs/2202.09340)]  
   Di He\*, Wenlei Shi\*, **Shanda Li**\*, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, Tie-Yan Liu
-  
-Education
-=====
-
-**Peking University**, Beijing, China
-
-* B.S. in Computer Science and Technology. 2018 - 2022 (expected).
-
-Services
-=====
-Reviewer at ICML 2022
-
-Leadership
-=====
-2020.9 - 2021.9, **President**, EECS Students’ Association for Science and Technology, Peking University.
